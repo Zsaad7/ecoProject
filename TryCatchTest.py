@@ -27,5 +27,6 @@ try:
             result = cursor.fetchone()
             print(result)
 except Exception : 
-    print('Error akhi,khasha tban f SonarQube a bebe ')        
-        
+    print('Error akhi,khasha tban f SonarQube a bebe ')  
+    
+    print('Error akhi,khasha tban f SonarQube a bebe ')         
